@@ -9,6 +9,7 @@
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Sendbird for iOS</title>
+        <iconUrl>https://avatars1.githubusercontent.com/u/5143408</iconUrl>
         <releaseNotes>Sendbird for iOS v3.11.0</releaseNotes>
         <summary>Xamarin Binding Library - Sendbird for iOS</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
