@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.Sendbird.iOS</id>
+        <version>3.0.62</version>
+        <description>Xamarin Binding Library - Sendbird for iOS</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Sendbird for iOS</title>
+        <releaseNotes>Sendbird for iOS v3.11.0</releaseNotes>
+        <summary>Xamarin Binding Library - Sendbird for iOS</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://gitlab.com/naxam/sendbird-ios-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.iOS, sendbird</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.Sendbird.iOS/bin/Release/Naxam.Sendbird.iOS.dll" target="lib/Xamarin.iOS10/Naxam.Sendbird.iOS.dll" />
+    </files>
+</package>
